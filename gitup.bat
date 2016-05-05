@@ -9,7 +9,7 @@ if not exist .git (
 )
 if not exist .git (
  ::echo 不存在
- echo 11
+ echo 提交地址:%url%
  pause
  %gitPath%git init
  %gitPath%git remote add origin "%url%"
