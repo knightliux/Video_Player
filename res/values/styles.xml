@@ -1,0 +1,96 @@
+<resources>
+	
+    <style name="btn_vod">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+    <style name="text_12_f2f2f2">
+        <item name="android:textSize">12dp</item>
+        <item name="android:textColor">#f2f2f2</item>
+    </style>
+    <style name="text_28_ffffff">
+        <item name="android:textSize">28dp</item>
+        <item name="android:textColor">#f2f2f2</item>
+    </style>
+    
+    <style name="text_18_feadff">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">#feadff</item>
+    </style>
+    
+    <style name="text_20_ffffff">
+       <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#f2f2f2</item>
+    </style>
+    
+    <style name="text_24_ffffff">
+       <item name="android:textSize">24dp</item>
+        <item name="android:textColor">#f2f2f2</item>
+    </style>
+    
+    <style name="text_20_cccccc">
+       <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#999999</item>
+    </style>
+    
+     <style name="text_24_cccccc">
+       <item name="android:textSize">24dp</item>
+        <item name="android:textColor">#999999</item>
+    </style>
+    
+    <style name="text_24_f3f3f3">
+       <item name="android:textSize">24dp</item>
+       <item name="android:textColor">#f3f3f3</item>
+    </style>
+    
+    <style name="text_42_ffffff">
+       <item name="android:textSize">42dp</item>
+        <item name="android:textColor">#f2f2f2</item>
+    </style>
+    
+    <style name="text_21_00f58c">
+       <item name="android:textSize">21dp</item>
+        <item name="android:textColor">#00658c</item>
+    </style>
+    
+    <style name="text_25_f2f2f2">
+       <item name="android:textSize">25dp</item>
+        <item name="android:textColor">#f2f2f2</item>
+    </style>
+    
+    <style name="text_21_666666">
+       <item name="android:textSize">21dp</item>
+        <item name="android:textColor">#666666</item>
+    </style>
+    
+    <style name="text_36_cc6602">
+        <item name="android:textSize">36dp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    
+     <style name="text_18_cc6602">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
